@@ -1,0 +1,13 @@
+#username {
+  max-width: 20rem;
+  min-width: 10rem;
+}
+
+#Duration {
+  max-width: 20rem;
+  min-width: 10rem;
+}
+
+.form-ex {
+  align-items: center;
+}
